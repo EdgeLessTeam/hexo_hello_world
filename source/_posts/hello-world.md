@@ -1,38 +1,34 @@
 ---
-title: Hello World
+title: 欢迎使用 Less 开发者平台提供的 Hexo 应用模板
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+这个模板是基于[Hexo](https://hexo.io/)创建。您可以从 Hexo 的[官方文档](https://hexo.io/docs/)了解更多关于 Hexo 的内容。
 
-### Create a new post
+## 牛刀小试
+### 创建一篇新的文章
 
 ``` bash
-$ hexo new "My New Post"
+$ hexo new "一篇新的文章"
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+更多信息: [写作](https://hexo.io/docs/writing.html)
 
-### Run server
+### 运行开发服务器
 
 ``` bash
 $ hexo server
 ```
 
-More info: [Server](https://hexo.io/docs/server.html)
+更多信息: [Server](https://hexo.io/docs/server.html)
 
-### Generate static files
+### 生成静态文件
 
 ``` bash
 $ hexo generate
 ```
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+更多信息: [生成](https://hexo.io/docs/generating.html)
 
-### Deploy to remote sites
+### 部署到 Less 平台
 
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+您仅需将您的更新提交并推送到代码仓库，在 Less 平台的应用控制台内点击**部署**按钮就可以一键发布到线上了！
